@@ -1,0 +1,12 @@
+D:\c#\5217 For Better Productivity\5217 For Better Productivity\bin\Debug\5217 For Better Productivity.exe.config
+D:\c#\5217 For Better Productivity\5217 For Better Productivity\bin\Debug\5217 For Better Productivity.exe
+D:\c#\5217 For Better Productivity\5217 For Better Productivity\bin\Debug\5217 For Better Productivity.pdb
+D:\c#\5217 For Better Productivity\5217 For Better Productivity\bin\Debug\MaterialSkin.dll
+D:\c#\5217 For Better Productivity\5217 For Better Productivity\obj\Debug\5217 For Better Productivity.csprojAssemblyReference.cache
+D:\c#\5217 For Better Productivity\5217 For Better Productivity\obj\Debug\_5217_For_Better_Productivity.UI.resources
+D:\c#\5217 For Better Productivity\5217 For Better Productivity\obj\Debug\_5217_For_Better_Productivity.Properties.Resources.resources
+D:\c#\5217 For Better Productivity\5217 For Better Productivity\obj\Debug\5217 For Better Productivity.csproj.GenerateResource.cache
+D:\c#\5217 For Better Productivity\5217 For Better Productivity\obj\Debug\5217 For Better Productivity.csproj.CoreCompileInputs.cache
+D:\c#\5217 For Better Productivity\5217 For Better Productivity\obj\Debug\5217 For Better Productivity.csproj.CopyComplete
+D:\c#\5217 For Better Productivity\5217 For Better Productivity\obj\Debug\5217 For Better Productivity.exe
+D:\c#\5217 For Better Productivity\5217 For Better Productivity\obj\Debug\5217 For Better Productivity.pdb
