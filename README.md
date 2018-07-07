@@ -2,8 +2,8 @@
 C# app to manage time and increase productivity using the 52-minute work/ 17-minute break schedule
 
 To read more about this topic you can read the following articles:
-https://lifehacker.com/52-minute-work-17-minute-break-is-the-ideal-productivi-1616541102
-https://www.themuse.com/advice/the-rule-of-52-and-17-its-random-but-it-ups-your-productivity
+<br> https://lifehacker.com/52-minute-work-17-minute-break-is-the-ideal-productivi-1616541102
+<br> https://www.themuse.com/advice/the-rule-of-52-and-17-its-random-but-it-ups-your-productivity
 
 Features:
 1. You can play a sound after 52 minutes of work or 17 minutes of pause pass
