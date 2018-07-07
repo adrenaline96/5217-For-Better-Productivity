@@ -11,5 +11,9 @@ Features:
 3. You can send the application to tray and let it do its thing, you will receive notifications
 
 
-Requirements:
+Requirements for the redist files:
 1. .NET Framework 4.6.1 or later
+
+
+Project dependencies:
+1. MaterialSkin 0.2.1 or later
