@@ -1,5 +1,5 @@
 # 5217-For-Better-Productivity
-C# app to manage time and increase productivity using the 52-minute work/ 17-minute break schedule
+C# app to manage time and increase productivity using the 52-minute work/17-minute break schedule
 
 To read more about this topic you can read the following articles:
 <br> https://lifehacker.com/52-minute-work-17-minute-break-is-the-ideal-productivi-1616541102
